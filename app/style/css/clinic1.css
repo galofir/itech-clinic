@@ -1,0 +1,22 @@
+.nav-logo {
+	width: 180px;
+    height: 70px;
+    margin-top: -3.5%;
+}
+.facebook-page-link a .fa-facebook-official{
+	font-size: 25px;
+	padding-top: 14px;
+
+}
+.navbar-nav li a {
+	font-size: 18px;
+}
+.navbar.navbar-default {
+    box-shadow: 1px -2px 6px 1px;
+}
+#clinicPhotosCarousel {
+    width: 460px;
+}
+.carousel-control.right {
+	background-image: none;
+}

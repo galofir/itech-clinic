@@ -1,0 +1,55 @@
+body {	
+	background-image: url('../photos/doctor.jpg');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.logo-container {
+	margin-top: 5%;
+    text-align: center;
+}
+.logo {
+	width: 300px;
+	height: 100px
+}
+.nevigate-section {
+	position: relative;
+	margin-top: 20%;
+	text-align: center;
+}
+.clinic-btn-container {
+	position: relative;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+}
+.clinic-btn {
+    opacity: 0.9;
+    border: solid 1px antiquewhite;
+    font-size: 20px;
+    padding: 41px 28px 46px 30px;
+    background-color: aliceblue;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 0px 0px 17px 1px;
+}
+.technion-logo {
+	position: absolute;
+    width: 63px;
+    height: 100px;
+    top: -35px;
+    right: 66px;
+}
+/*.technion {
+	background-image: url('../photos/technion-logo.png'); 
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: 100%;
+}*/
+.nev-icon {
+    position: absolute;
+    font-weight: bold;
+    color: chocolate;
+}
